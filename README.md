@@ -5,7 +5,7 @@
 💬 To contact me: **Telegram @kup57**
 
 ### Script Versions
-| Script | Latest Version |
+| Script | Version |
 | ------ | ------ |
 | **RSA** | [![Connect-365](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) |
 
