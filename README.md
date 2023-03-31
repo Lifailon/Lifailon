@@ -7,7 +7,8 @@
 ### Script Versions
 | Script | Version | Module | Version |
 | ------ | ------ | ------ | ------ |
-| **RSA** | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) | Get-Query | [![Get-Query](https://img.shields.io/github/v/release/lifailon/Get-Query)](https://github.com/Lifailon/Get-Query/releases) |
+| **RSA** | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) | **Get-Query** | [![Get-Query](https://img.shields.io/github/v/release/lifailon/Get-Query)](https://github.com/Lifailon/Get-Query/releases) |
+| **DNS-Change-Tray** | [![DNS-Change-Tray](https://img.shields.io/github/v/release/lifailon/DNS-Change-Tray)](https://github.com/Lifailon/DNS-Change-Tray/releases) | **Veeam-REStat** | [![Veeam-REStat](https://img.shields.io/github/v/release/lifailon/Veeam-REStat)](https://github.com/Lifailon/Veeam-REStat/releases) |
 
 ### GitHub Stats
 ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only)
