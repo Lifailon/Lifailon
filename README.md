@@ -1,6 +1,6 @@
 🔨 Work with GUI WinForms, AD, EMShell, PowerCLI, VBR, REST, WMI, SQL and Zabbix
 
-💬 To contact me: **Telegram @kup57**
+💬 Contact me to Telegram: **@kup57**
 
 ### Script Versions
 | **Script using GUI** | **Version** | **Module** | **Version** | **Add-on** |
