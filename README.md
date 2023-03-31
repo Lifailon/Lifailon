@@ -5,8 +5,8 @@
 💬 To contact me: **Telegram @kup57**
 
 ### Script Versions
-| Script | Version |
-| ------ | ------ |
+| Script | Version | | Module | Version |
+| ------ | ------ | | ------ | ------ |
 | **RSA** | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) |
 
 ### GitHub Stats
