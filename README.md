@@ -1,3 +1,8 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 💬 How to reach me: Telegram @kup57
+🔨 Сreation PowerShell scripts, modules and using GUI WinForms.
+
+💻 Work with AD, EMShell, PowerCLI, VBR, REST, WMI, SQL and Zabbix.
+
+🔧 Currently learnin Python
+
+💬 To contact me: **Telegram @kup57**
+
