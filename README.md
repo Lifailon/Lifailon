@@ -7,6 +7,7 @@
 ### Script Versions
 | Script | Latest Version |
 | ------ | ------ |
-| RSA | [![Connect-365](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) |
+| **RSA** | [![Connect-365](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) |
+
 ### GitHub Stats
 ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only)
