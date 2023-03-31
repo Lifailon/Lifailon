@@ -5,7 +5,7 @@
 💬 To contact me: **Telegram @kup57**
 
 ### Script Versions
-| Script using GUI | Version | Module | Version |
+| **Script using GUI** | **Version** | **Module** | **Version** |
 | ------ | ------ | ------ | ------ |
 | **RSA** | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa)](https://github.com/Lifailon/RSA/releases) | **Get-Query** | [![Get-Query](https://img.shields.io/github/v/release/lifailon/Get-Query)](https://github.com/Lifailon/Get-Query/releases) |
 | **DNS-Change-Tray** | [![DNS-Change-Tray](https://img.shields.io/github/v/release/lifailon/DNS-Change-Tray)](https://github.com/Lifailon/DNS-Change-Tray/releases) | **Veeam-REStat** | [![Veeam-REStat](https://img.shields.io/github/v/release/lifailon/Veeam-REStat)](https://github.com/Lifailon/Veeam-REStat/releases) |
