@@ -1,4 +1,4 @@
-Writing **Powershell** scripts, modules and GUI **WinForms** in support of the **OpenSource community**.
+Writing **Powershell** scripts, modules and GUI WinForms for **OpenSource community**.
 
 🔨 **Work with AD, EMShell, PowerCLI, VBR, REST, WMI, SQL and Zabbix.**
 
