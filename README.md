@@ -1,4 +1,6 @@
-🔨 Work with GUI WinForms, AD, EMShell, PowerCLI, VBR, REST, WMI, SQL and Zabbix
+Writing **Powershell** scripts, modules and GUI **WinForms** in support of the **OpenSource community**.
+
+🔨 Work with **AD, EMShell, PowerCLI, VBR, REST, WMI, SQL and Zabbix.**
 
 💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57)
 
