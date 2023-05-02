@@ -7,7 +7,7 @@ Writing **Powershell** scripts and modules for **OpenSource Community**.
 ### Script Versions
 | **Script using GUI** | **Version** | **Module** | **Version** |
 | ------ | ------ | ------ | ------ |
-| **RSA** | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa?color=<green>)](https://github.com/Lifailon/RSA/releases) | **PS-Pi-Hole** | |
+| **RSA** | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa?color=<green>)](https://github.com/Lifailon/RSA/releases) | **PS-Pi-Hole** | [![PS-Pi-Hole](https://img.shields.io/github/v/release/lifailon/PS-Pi-Hole?color=<green>)](https://github.com/Lifailon/PS-Pi-Hole/releases) |
 | **DNS-Change-Tray** | [![DNS-Change-Tray](https://img.shields.io/github/v/release/lifailon/DNS-Change-Tray?color=<green>)](https://github.com/Lifailon/DNS-Change-Tray/releases) | **Veeam-REStat** | [![Veeam-REStat](https://img.shields.io/github/v/release/lifailon/Veeam-REStat?color=<green>)](https://github.com/Lifailon/Veeam-REStat/releases) |
 | **WinEvent-Viewer** | [![WinEvent-Viewer](https://img.shields.io/github/v/release/lifailon/WinEvent-Viewer?color=<green>)](https://github.com/Lifailon/WinEvent-Viewer/releases) | **Veeam-Job-Stat** | [![Veeam-Job-Stat](https://img.shields.io/github/v/release/lifailon/Veeam-Job-Stat?color=<green>)](https://github.com/Lifailon/Veeam-Job-Stat/releases) |
 | **PST-Export-GUI** | [![PST-Export-GUI](https://img.shields.io/github/v/release/lifailon/PST-Export-GUI?color=<green>)](https://github.com/Lifailon/PST-Export-GUI/releases) | **Veeam-Rep-Stat** | [![Veeam-Rep-Stat](https://img.shields.io/github/v/release/lifailon/Veeam-Rep-Stat?color=<green>)](https://github.com/Lifailon/Veeam-Rep-Stat/releases) |
