@@ -15,6 +15,7 @@ Writing **Powershell** scripts and modules for **OpenSource Community**.
 | **AD-Manager** | [![AD-Manager](https://img.shields.io/github/last-commit/lifailon/AD-Manager?color=<green>)](https://github.com/Lifailon/AD-Manager) | **Get-PortCheck** | [![Get-PortCheck](https://img.shields.io/github/v/release/lifailon/Get-PortCheck?color=<green>)](https://github.com/Lifailon/Get-PortCheck/releases) |
 | **iPerf-GUI** | [![iPerf-GUI](https://img.shields.io/github/last-commit/lifailon/iperf-gui?color=<green>)](https://github.com/Lifailon/iPerf-GUI) | **Veeam-Job-Stat** | [![Veeam-Job-Stat](https://img.shields.io/github/v/release/lifailon/Veeam-Job-Stat?color=<green>)](https://github.com/Lifailon/Veeam-Job-Stat/releases) |
 | **ConvertTo-Base64** | [![ConvertTo-Base64](https://img.shields.io/github/last-commit/lifailon/ConvertTo-Base64?color=<green>)](https://github.com/Lifailon/ConvertTo-Base64) | **Veeam-Rep-Stat** | [![Veeam-Rep-Stat](https://img.shields.io/github/v/release/lifailon/Veeam-Rep-Stat?color=<green>)](https://github.com/Lifailon/Veeam-Rep-Stat/releases) |
+| **WMI-Class-Viewer** | [![WMI-Class-Viewer](https://img.shields.io/github/last-commit/lifailon/WMI-Class-Viewer?color=<green>)](https://github.com/Lifailon/WMI-Class-Viewer) | **Invoke-Pi-Hole** | |
 
 ### Add-on for software
 | **Service** | **Version** |
