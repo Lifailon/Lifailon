@@ -16,5 +16,11 @@ Writing **Powershell** scripts and modules for **OpenSource Community**.
 | **iPerf-GUI** | [![iPerf-GUI](https://img.shields.io/github/last-commit/lifailon/iperf-gui?color=<green>)](https://github.com/Lifailon/iPerf-GUI) | **Veeam-Job-Stat** | [![Veeam-Job-Stat](https://img.shields.io/github/v/release/lifailon/Veeam-Job-Stat?color=<green>)](https://github.com/Lifailon/Veeam-Job-Stat/releases) |
 | **ConvertTo-Base64** | [![ConvertTo-Base64](https://img.shields.io/github/last-commit/lifailon/ConvertTo-Base64?color=<green>)](https://github.com/Lifailon/ConvertTo-Base64) | **Veeam-Rep-Stat** | [![Veeam-Rep-Stat](https://img.shields.io/github/v/release/lifailon/Veeam-Rep-Stat?color=<green>)](https://github.com/Lifailon/Veeam-Rep-Stat/releases) |
 
+### Script Versions
+| **Add-on** | **Version** |
+| ------ | ------ |
+| **RDCMan** | [![RDCMan-LDAP](https://img.shields.io/github/last-commit/lifailon/RDCMan-LDAP?color=<green>)](https://github.com/Lifailon/RDCMan-LDAP) |
+| **ITInvent** | [![ITInvent-SQL-Alert](https://img.shields.io/github/last-commit/lifailon/ITInvent-SQL-Alert?color=<green>)](https://github.com/Lifailon/ITInvent-SQL-Alert) |
+
 ### GitHub Stats
 ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only)
