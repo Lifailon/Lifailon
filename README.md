@@ -1,6 +1,6 @@
 Writing **Powershell** scripts and modules for **OpenSource Community**.
 
-🔨 **Work with GUI WinForms, AD, EMShell, PowerCLI, WMI, DSC, REST API, Selenium, IE, Excel, XML, SQLite, MSSQL, MySQL.**
+🔨 **Work with GUI WinForms, AD, EMShell, PowerCLI, WMI, DSC, REST API, IE, Selenium, Excel, XML, SQLite, MSSQL, MySQL.**
 
 💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57)
 
