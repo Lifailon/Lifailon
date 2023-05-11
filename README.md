@@ -21,7 +21,7 @@ Writing **Powershell** scripts and modules for **OpenSource Community**.
 | **Service** | **Version** |
 | ------ | ------ |
 | **Ookla SpeedTest** | [![Ookla-SpeedTest-API](https://img.shields.io/github/v/release/lifailon/Ookla-SpeedTest-API?color=<green>)](https://github.com/Lifailon/Ookla-SpeedTest-API/releases) |
-| **iPerf** | [![PS-iPerf](https://img.shields.io/github/last-commit/lifailon/PS-iPerf?color=<green>)](https://github.com/Lifailon/PS-iPerf/releases) |
+| **iPerf** | [![PS-iPerf](https://img.shields.io/github/v/release/lifailon/PS-iPerf?color=<green>)](https://github.com/Lifailon/PS-iPerf/releases) |
 | **RDCMan** | [![RDCMan-LDAP](https://img.shields.io/github/last-commit/lifailon/RDCMan-LDAP?color=<green>)](https://github.com/Lifailon/RDCMan-LDAP) |
 | **ITInvent** | [![ITInvent-SQL-Alert](https://img.shields.io/github/last-commit/lifailon/ITInvent-SQL-Alert?color=<green>)](https://github.com/Lifailon/ITInvent-SQL-Alert) |
 
