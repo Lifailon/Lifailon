@@ -1,6 +1,6 @@
 Writing **Powershell** scripts and modules for **OpenSource Community**.
 
-⭐ Work with **GUI WinForms, AD, EMShell, PowerCLI, WMI, REST API, IE, Selenium, XML, JSON, SQL.** Learning Python... \
+⭐ Work with **GUI WinForms, AD, EMShell, PowerCLI, WMI, REST API, IE, Selenium, XML, JSON, SQL.** Learning **Python**... \
 🔨 Working Profession: **System Administrator** \
 💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57)
 
