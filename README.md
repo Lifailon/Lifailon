@@ -1,11 +1,9 @@
 Writing **Powershell** scripts and modules for **OpenSource Community**.
 
-⭐ Work with **GUI WinForms, AD, EMShell, PowerCLI, WMI, REST API, IE, Selenium, XML, JSON, SQL.** \
+⭐ Work with **GUI WinForms, AD, EMShell, PowerCLI, WMI, REST API, IE, Selenium, XML, JSON, SQL.** Learning Python... \
 🔨 Working Profession: **System Administrator** \
-⏳ Learning Python... \
 💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57)
 
-### Script Versions
 | **Script using GUI** | **Version** | **Module** | **Version** |
 | ------ | ------ | ------ | ------ |
 | **RSA** 				  | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa?color=<green>)](https://github.com/Lifailon/RSA/releases) 										 |  **Ookla-SpeedTest-API** | [![Ookla-SpeedTest-API](https://img.shields.io/github/v/release/lifailon/Ookla-SpeedTest-API?color=<green>)](https://github.com/Lifailon/Ookla-SpeedTest-API/releases) |
