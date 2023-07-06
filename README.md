@@ -1,6 +1,6 @@
 Writing **PowerShell** scripts and modules for **OpenSource Community**.
 
-📚 Stack: **.NET, COM, WMI/CIM, IE/Selenium, REST API, JSON, XML, SQL, WinForms, Sockets, AD, EMShell, PowerCLI, DSC, Ansible, Zabbix** \
+📚 Stack: **.NET, COM, WMI/CIM, REST API, IE/Selenium, JSON, XML, WinForms, AD, EMShell, PowerCLI, InfluxDB, MSSQL, MySQL, SQLite, Zabbix, Grafana, Ansible** \
 ⭐ Working Profession: **System Administrator** \
 💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57)
 
