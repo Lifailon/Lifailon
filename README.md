@@ -1,4 +1,4 @@
-Hi, my name is Alexander. Writing scripts for **OpenSource Community**.
+Hi, my name is Alexander. Writing scripts for **Open Source Community**.
 
 ⭐ Working Profession: **System Administrator** \
 📚 Stack: **PowerShell, .NET, COM, WMI/CIM, GUI WinForms, REST API, IE/Selenium, JSON, XML, Excel, AD, EMShell, PowerCLI, Veeam, Zabbix, InfluxDB, Grafana, MSSQL, MySQL, Python, TKInter, Ansible, Jenkins, Git** \
