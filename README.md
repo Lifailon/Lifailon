@@ -1,7 +1,7 @@
 Hi, my name is Alexander. Writing scripts for **Open Source Community**.
 
 ⭐ Working Profession: **System Administrator** \
-📚 Stack: **PowerShell, .NET, COM, WMI/CIM, GUI WinForms, REST API, IE/Selenium, JSON, XML, Excel, AD, EMShell, PowerCLI, Veeam, Zabbix, InfluxDB, Grafana, MSSQL, MySQL, Python, TKInter, Ansible, Jenkins, Git** \
+📚 Stack: **PowerShell, .NET, COM, WMI/CIM, GUI WinForms, REST API, IE/Selenium, JSON, XML, Excel, AD, EMShell, PowerCLI, Veeam, Zabbix, InfluxDB, Grafana, MSSQL, MySQL, DSC, Ansible, Jenkins, Git, Python, TKInter.** \
 💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57)
 
 | **Script using GUI** | **Version** | **Module** | **Version** |
