@@ -1,4 +1,4 @@
-🎅 **Happy New 2024** 🎄🎁
+🎅 **Waiting for the new year 2024** 🎄🎁
 
 Hi 👋, my name is Alexander. Writing scripts for **Open Source Community**.
 
