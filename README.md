@@ -3,7 +3,7 @@ Hi 👋, my name is Alexander. Writing scripts for **Open Source Community**.
 ⭐ Working Profession: **System Administrator**. \
 📚 Stack: **PowerShell, .NET/COM, Bash, REST API, Selenium, WinForms, AD, EMShell, PowerCLI, WMI/CIM, Veeam, Zabbix, Grafana, InfluxDB, MSSQL, MySQL, ODBC, ELK, Git, Jenkins, Ansible, Docker.** \
 📃 Publications to [**Habr**](https://habr.com/ru/users/Lifailon/publications/articles) \
-💬 Contact me to Telegram: [**@kup57**](https://t.me/kup57) and Discord: [**alex_24491**]()
+💬 Contact me to **Telegram: [@kup57](https://t.me/kup57)** and **Discord: alex_24491**
 
 | **Scripts using UI** 	  | **Version** 																																				 | **Scripts/Modules** 		| **Version** 																																										|
 | ------ 				  | ------ 																																						 | ------ 					| ------ 																																											|
