@@ -20,4 +20,5 @@ Hi 👋, my name is Alexander. Writing scripts for **Open Source Community** :oc
 | **iPerf-GUI** 		  | [![iPerf-GUI](https://img.shields.io/github/last-commit/lifailon/iperf-gui?color=<green>)](https://github.com/Lifailon/iPerf-GUI)					 		 | **Get-Invent-SQLite** 	| [![Get-Invent](https://img.shields.io/github/v/release/lifailon/Get-Invent-SQLite?color=<green>)](https://github.com/Lifailon/Get-Invent-SQLite) 									|
 
 ### GitHub Stats
-![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only) \
+![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-dark-mode-only)
