@@ -1,12 +1,21 @@
-Hi 👋, my name is Alexander.
+Hi 👋, my name is Alexander. Working profession: **System Administrator**. This channel is my hobby.
 
-⭐ Profession: **System Administrator**. \
-🔨 The main language is **PowerShell**, as well as Bash, C#, Python. \
-📚 Stack: **.NET, REST API, Selenium, WinForms, AD, Exchange, Hyper-V, VMWare, Veeam, WMI, PRTG, Zabbix, InfluxDB, Grafana, ELK, ODBC, MSSQL, MySQL, Docker, Ansible, Jenkins, Git.** \
-💡 Page for [PowerShell notes](https://lifailon.github.io). \
-🚀 Published modules in [Nuget](https://www.nuget.org/profiles/Lifailon). \
-📄 Publications in [Habr](https://habr.com/ru/users/Lifailon/publications/articles). \
-💬 Contact me to **Telegram: [@kup57](https://t.me/kup57)** and **Discord: [Lifailon](https://discord.com/users/1193694070170734636)**.
+### Stack:
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) \
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) \
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Projects:
 
 | **UI Scripts**        | **Version**                                                                                                                                          | **Modules**              | **Version**                                                                                                                                                                                          |
 | ------                | ------                                                                                                                                               | ------                   | ------                                                                                                                                                                                               |
