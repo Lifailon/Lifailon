@@ -1,6 +1,6 @@
 ✌️ Hi, my name is Alexander. Working profession: **System Administrator**
 
-🚀 Main language: **PowerShell >_**
+🚀 Main language: **PowerShell** and **.NET Framework**
 
 <!--
 ### Stack:
