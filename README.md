@@ -55,39 +55,39 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
 -->
 
 <a href="https://github.com/Lifailon/Kinozal-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Kinozal-Bot&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Kinozal-Bot&theme=vue" />
 </a>
 <a href="https://github.com/Lifailon/TorAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=flag-india" />
 </a>
 <br>
 </a>
 <a href="https://github.com/Lifailon/LibreKinopoisk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=LibreKinopoisk&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=LibreKinopoisk&theme=flag-india" />
 </a>
 <a href="https://github.com/Lifailon/multranslate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=multranslate&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=multranslate&theme=flag-india" />
 </a>
 <br>
 <a href="https://github.com/Lifailon/webtorrent-desktop-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=flag-india" />
 </a>
 <a href="https://github.com/Lifailon/hwstat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue " />
 </a>
 <br>
 <a href="https://github.com/Lifailon/rpnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=rpnet&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=rpnet&theme=vue" />
 </a>
 <a href="https://github.com/Lifailon/intellishell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=default" />
 </a>
 
 ### GitHub Stats:
 
 <!--
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lifailon&show_icons=true&theme=react)](https://github.com/Lifailon)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifailon&layout=compact&theme=react)](https://github.com/Lifailon)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lifailon&show_icons=true&theme=default)](https://github.com/Lifailon)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifailon&layout=compact&theme=default)](https://github.com/Lifailon)
 -->
 
 ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only) \
