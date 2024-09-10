@@ -1,22 +1,94 @@
-✌️ Hi, my name is Alexander. Working profession: **System Administrator** and **Automation Engineer**.
+My name is Alexander. Working profession: **System Administrator** and **Automation Engineer**.
+
+### Platforms:
+
+[![NuGet](https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white)](https://nuget.org/profiles/Lifailon)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/~lifailon)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/lifailon)
+[![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](https://app.swaggerhub.com/search?owner=Lifailon)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/torapi)
+
+<!--
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+![Github Pages](https://img.shields.io/badge/GitHub_Page-121013?style=for-the-badge&logo=github&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+-->
 
 ### Main Projects:
+
+<!--
 
 | **UI**                        | **Version**                                                                                                                                                                            | **Modules**              | **Version**                                                                                                                                                                                                             |
 | ------                        | ------                                                                                                                                                                                 | ------                   | ------                                                                                                                                                                                                                  |
 | **Kinozal Bot**               | [![Kinozal-Bot](https://img.shields.io/github/v/release/lifailon/Kinozal-Bot?color=green&logo=telegram)](https://github.com/Lifailon/Kinozal-Bot)                                      | **TorAPI**               | [![TorAPI](https://img.shields.io/github/v/release/lifailon/TorAPI?color=yellow&logo=javascript)](https://github.com/Lifailon/TorAPI)                                                                                   |
 | **Libre Kinopoisk**           | [![LibreKinopoisk](https://img.shields.io/github/v/release/lifailon/LibreKinopoisk?color=yellow&logo=javascript)](https://github.com/Lifailon/LibreKinopoisk)                          | **insh (Intelli Shell)** | [![intellishell](https://img.shields.io/github/v/release/Lifailon/intellishell?include_prereleases&color=blue&logo=Python)](https://github.com/Lifailon/intellishell)                                                   |
 | **WebTorrent Desktop API**    | [![webtorrent-desktop-api](https://img.shields.io/github/v/release/lifailon/webtorrent-desktop-api?color=yellow&logo=javascript)](https://github.com/Lifailon/webtorrent-desktop-api)  | **hwstat**               | [![hwstat](https://img.shields.io/github/v/release/Lifailon/hwstat?include_prereleases&color=green&logo=gnu+bash)](https://github.com/Lifailon/hwstat)                                                                  |
-| **RSA**                       | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa?color=blue&logo=powershell)](https://github.com/Lifailon/RSA)                                                             | **Reverse Proxy .NET**   | [![rpnet](https://img.shields.io/github/v/release/Lifailon/rpnet?include_prereleases&color=darkgreen&logo=sharp)](https://github.com/Lifailon/rpnet)                                                                    |
-| **iPerf GUI**                 | [![iPerf-GUI](https://img.shields.io/github/last-commit/lifailon/iperf-gui?color=blue&logo=powershell)](https://github.com/Lifailon/iPerf-GUI)                                         | **WinAPI**               | [![WinAPI](https://img.shields.io/github/v/release/lifailon/WinAPI?color=blue&logo=dotnet)](https://github.com/Lifailon/WinAPI)                                                                                         |
-| **AD Manager**                | [![AD-Manager](https://img.shields.io/github/last-commit/lifailon/AD-Manager?color=blue&logo=powershell)](https://github.com/Lifailon/AD-Manager)                                      | **pSyslog**              | [![pSyslog](https://img.shields.io/github/v/release/lifailon/pSyslog?color=blue&logo=dotnet)](https://github.com/Lifailon/pSyslog)                                                                                      |
-| **VMware Invent**             | [![VMW-Invent](https://img.shields.io/github/last-commit/lifailon/VMW-Invent?color=blue&logo=powershell)](https://github.com/Lifailon/VMW-Invent)                                      | **Console-Translate**    | [![Console-Translate](https://img.shields.io/github/v/release/Lifailon/Console-Translate?include_prereleases&color=blue&logo=powershell)](https://github.com/Lifailon/Console-Translate)                                |
-| **PST Export GUI**            | [![PST-Export-GUI](https://img.shields.io/github/v/release/lifailon/PST-Export-GUI?color=blue&logo=powershell)](https://github.com/Lifailon/PST-Export-GUI)                            | **Console-Download**     | [![Console-Download](https://img.shields.io/github/v/release/lifailon/Console-Download?include_prereleases&color=blue&logo=powershell)](https://github.com/Lifailon/Console-Download)                                   |
-| **WinEvent Viewer**           | [![WinEvent-Viewer](https://img.shields.io/github/v/release/lifailon/WinEvent-Viewer?color=blue&logo=powershell)](https://github.com/Lifailon/WinEvent-Viewer)                         | **HardwareMonitor**      | [![PowerShell.HardwareMonitor](https://img.shields.io/github/v/release/Lifailon/PowerShell.HardwareMonitor?include_prereleases&color=blue&logo=powershell)](https://github.com/Lifailon/PowerShell.HardwareMonitor)     |
-| **DNS Change Tray**           | [![DNS-Change-Tray](https://img.shields.io/github/v/release/lifailon/DNS-Change-Tray?color=blue&logo=powershell)](https://github.com/Lifailon/DNS-Change-Tray)                         | **Selenium Modules**     | [![Selenium-Modules](https://img.shields.io/github/v/release/Lifailon/Selenium-Modules?include_prereleases&color=blue&logo=selenium)](https://github.com/Lifailon/Selenium-Modules)                                     |
-| **ACL Backup**                | [![iPerf-ACL-Backup](https://img.shields.io/github/last-commit/lifailon/ACL-Backup?color=blue&logo=powershell)](https://github.com/Lifailon/ACL-Backup)                                | **psInfluxDB**           | [![psinfluxdb](https://img.shields.io/github/v/release/lifailon/psinfluxdb?color=blue&logo=powershell)](https://github.com/Lifailon/psinfluxdb)                                                                         |
+| **Multi Translate TUI**       | [![multranslate](https://img.shields.io/github/v/release/lifailon/multranslate?color=yellow&logo=javascript)](https://github.com/Lifailon/multranslate)                                | **Reverse Proxy .NET**   | [![rpnet](https://img.shields.io/github/v/release/Lifailon/rpnet?include_prereleases&color=darkgreen&logo=sharp)](https://github.com/Lifailon/rpnet)                                                                    |
+| **RSA**                       | [![RSA](https://img.shields.io/github/v/release/lifailon/rsa?color=blue&logo=powershell)](https://github.com/Lifailon/RSA)                                                             | **WinAPI**               | [![WinAPI](https://img.shields.io/github/v/release/lifailon/WinAPI?color=blue&logo=dotnet)](https://github.com/Lifailon/WinAPI)                                                                                         |
+| **iPerf GUI**                 | [![iPerf-GUI](https://img.shields.io/github/last-commit/lifailon/iperf-gui?color=blue&logo=powershell)](https://github.com/Lifailon/iPerf-GUI)                                         | **pSyslog**              | [![pSyslog](https://img.shields.io/github/v/release/lifailon/pSyslog?color=blue&logo=dotnet)](https://github.com/Lifailon/pSyslog)                                                                                      |
+| **AD Manager**                | [![AD-Manager](https://img.shields.io/github/last-commit/lifailon/AD-Manager?color=blue&logo=powershell)](https://github.com/Lifailon/AD-Manager)                                      | **Console-Translate**    | [![Console-Translate](https://img.shields.io/github/v/release/Lifailon/Console-Translate?include_prereleases&color=blue&logo=powershell)](https://github.com/Lifailon/Console-Translate)                                |
+| **VMware Invent**             | [![VMW-Invent](https://img.shields.io/github/last-commit/lifailon/VMW-Invent?color=blue&logo=powershell)](https://github.com/Lifailon/VMW-Invent)                                      | **Console-Download**     | [![Console-Download](https://img.shields.io/github/v/release/lifailon/Console-Download?include_prereleases&color=blue&logo=powershell)](https://github.com/Lifailon/Console-Download)                                   |
+| **PST Export GUI**            | [![PST-Export-GUI](https://img.shields.io/github/v/release/lifailon/PST-Export-GUI?color=blue&logo=powershell)](https://github.com/Lifailon/PST-Export-GUI)                            | **HardwareMonitor**      | [![PowerShell.HardwareMonitor](https://img.shields.io/github/v/release/Lifailon/PowerShell.HardwareMonitor?include_prereleases&color=blue&logo=powershell)](https://github.com/Lifailon/PowerShell.HardwareMonitor)     |
+| **WinEvent Viewer**           | [![WinEvent-Viewer](https://img.shields.io/github/v/release/lifailon/WinEvent-Viewer?color=blue&logo=powershell)](https://github.com/Lifailon/WinEvent-Viewer)                         | **Selenium Modules**     | [![Selenium-Modules](https://img.shields.io/github/v/release/Lifailon/Selenium-Modules?include_prereleases&color=blue&logo=selenium)](https://github.com/Lifailon/Selenium-Modules)                                     |
+| **DNS Change Tray**           | [![DNS-Change-Tray](https://img.shields.io/github/v/release/lifailon/DNS-Change-Tray?color=blue&logo=powershell)](https://github.com/Lifailon/DNS-Change-Tray)                         | **psInfluxDB**           | [![psinfluxdb](https://img.shields.io/github/v/release/lifailon/psinfluxdb?color=blue&logo=powershell)](https://github.com/Lifailon/psinfluxdb)                                                                         |
+| **ACL Backup**                | [![iPerf-ACL-Backup](https://img.shields.io/github/last-commit/lifailon/ACL-Backup?color=blue&logo=powershell)](https://github.com/Lifailon/ACL-Backup)                                | **CrystalDisk-Cli**      | [![CrystalDisk-Cli](https://img.shields.io/github/v/release/lifailon/CrystalDisk-Cli?color=blue&logo=powershell)](https://github.com/Lifailon/CrystalDisk-Cli)                                                          |
+
+-->
+
+<a href="https://github.com/Lifailon/Kinozal-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Kinozal-Bot&theme=react" />
+</a>
+<a href="https://github.com/Lifailon/TorAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=react" />
+</a>
+<br>
+</a>
+<a href="https://github.com/Lifailon/LibreKinopoisk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=LibreKinopoisk&theme=react" />
+</a>
+<a href="https://github.com/Lifailon/multranslate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=multranslate&theme=react" />
+</a>
+<br>
+<a href="https://github.com/Lifailon/webtorrent-desktop-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=react" />
+</a>
+<a href="https://github.com/Lifailon/hwstat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=react" />
+</a>
+<br>
+<a href="https://github.com/Lifailon/rpnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=rpnet&theme=react" />
+</a>
+<a href="https://github.com/Lifailon/intellishell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=react" />
+</a>
 
 ### GitHub Stats:
+
+<!--
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lifailon&show_icons=true&theme=react)](https://github.com/Lifailon)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifailon&layout=compact&theme=react)](https://github.com/Lifailon)
+-->
 
 ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only) \
 ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-dark-mode-only)
