@@ -2,18 +2,19 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
 
 ### Platforms:
 
-<h1 align="center">
+<h1 align="left">
     <a href="https://nuget.org/profiles/Lifailon"><img title="NuGet" src="https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="https://npmjs.com/~lifailon"><img title="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     <a href="https://hub.docker.com/u/lifailon"><img title="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://app.swaggerhub.com/search?owner=Lifailon"><img title="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
     <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://lifailon.github.io/"><img title="Telegram" src="https://img.shields.io/badge/MkDocs-%23008080.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </h1>
 
 <!--
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 ![Github Pages](https://img.shields.io/badge/GitHub_Page-121013?style=for-the-badge&logo=github&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
