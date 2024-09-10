@@ -2,11 +2,13 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
 
 ### Platforms:
 
-[![NuGet](https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white)](https://nuget.org/profiles/Lifailon)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/~lifailon)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/lifailon)
-[![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](https://app.swaggerhub.com/search?owner=Lifailon)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/torapi)
+<h1 align="center">
+    <a href="https://nuget.org/profiles/Lifailon"><img title="NuGet" src="https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white"></a>
+    <a href="https://npmjs.com/~lifailon"><img title="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="https://hub.docker.com/u/lifailon"><img title="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="https://app.swaggerhub.com/search?owner=Lifailon"><img title="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
+    <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</h1>
 
 <!--
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
