@@ -73,7 +73,7 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=flag-india" />
 </a>
 <a href="https://github.com/Lifailon/hwstat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue" />
 </a>
 <br>
 <a href="https://github.com/Lifailon/rpnet">
