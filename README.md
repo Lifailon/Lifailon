@@ -2,14 +2,21 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
 
 ### Platforms:
 
-<h1 align="left">
+<h5 align="left">
     <a href="https://nuget.org/profiles/Lifailon"><img title="NuGet" src="https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="https://npmjs.com/~lifailon"><img title="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="https://pypi.org/manage/projects"><img title="NPM" src="https://img.shields.io/badge/PyPi-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://hub.docker.com/u/lifailon"><img title="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://app.swaggerhub.com/search?owner=Lifailon"><img title="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"></a>
     <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
-    <a href="https://lifailon.github.io/"><img title="Telegram" src="https://img.shields.io/badge/MkDocs-%23008080.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-    <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</h1>
+
+### Public Projects:
+
+<h5 align="left">
+    <a href="https://lifailon.github.io"><img title="Telegram" src="https://img.shields.io/badge/PS_Commands-%23008080.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/Kinozal_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://app.swaggerhub.com/apis-docs/Lifailon/TorAPI"><img title="TorAPI" src="https://img.shields.io/badge/TorAPI-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </h1>
 
 <!--
@@ -79,12 +86,13 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue" />
 </a>
 <br>
-<a href="https://github.com/Lifailon/rpnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=rpnet&theme=vue" />
-</a>
 <a href="https://github.com/Lifailon/intellishell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=default" />
 </a>
+<a href="https://github.com/Lifailon/rpnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=rpnet&theme=vue" />
+</a>
+
 
 ### GitHub Stats:
 
