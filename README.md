@@ -103,7 +103,7 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Lifailon&layout=compact&theme=default)](https://github.com/Lifailon)
 -->
 
-<h5 align="center">
+<h5 align="left">
     <img align="center" src="https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only" />
     <img align="center" src="https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </h5>
