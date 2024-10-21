@@ -16,6 +16,7 @@ My name is Alexander. Working profession: **System Administrator** and **Automat
   <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://addons.mozilla.org/ru/firefox/user/18561955"><img title="Vercel" src="https://img.shields.io/badge/Firefox_Addons-%23F8DC75?style=for-the-badge&logo=Firefox-Browser&logoColor=ff612e"></a>
   <a href="http://www.wox.one/u/70837"><img title="Wox" src="https://img.shields.io/badge/Wox_Plugins-36bb96?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://habr.com/ru/users/Lifailon/publications/articles"><img title="Habr" src="https://img.shields.io/badge/Habr-619ebb.svg?style=for-the-badge&logo=habr&logoColor=white"></a>
 </h1>
 
 <!--
