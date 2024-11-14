@@ -10,7 +10,7 @@ My name is Alexander. Working profession: **System Administrator** and **DevOps 
     <a href="https://nuget.org/profiles/Lifailon"><img title="NuGet" src="https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="https://npmjs.com/~lifailon"><img title="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     <a href="https://pypi.org/user/Lifailon"><img title="NPM" src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=3670A0"></a>
-  <br>
+  <br></br>
     <a href="https://app.swaggerhub.com/search?owner=Lifailon"><img title="Swagger" src="https://img.shields.io/badge/swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black"></a>
     <a href="https://documenter.getpostman.com/view/37302476/2sAXqzYeRj"><img title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
     <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -42,29 +42,29 @@ My name is Alexander. Working profession: **System Administrator** and **DevOps 
     <a href="https://github.com/Lifailon/Kinozal-Bot">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Kinozal-Bot&theme=vue" />
     </a>
-    <a href="https://github.com/Lifailon/hwstat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue" />
-    </a>
-  <br>
     <a href="https://github.com/Lifailon/TorAPI">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=flag-india" />
     </a>
+  <br>
     <a href="https://github.com/Lifailon/LibreKinopoisk">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=LibreKinopoisk&theme=flag-india" />
     </a>
-  <br>
     <a href="https://github.com/Lifailon/multranslate">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=multranslate&theme=flag-india" />
     </a>
+  <br>
     <a href="https://github.com/Lifailon/lazyjournal">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=lazyjournal&theme=default" />
+    </a>
+    <a href="https://github.com/Lifailon/intellishell">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=default" />
     </a>
   <br>
     <a href="https://github.com/Lifailon/froxy">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=froxy&theme=vue" />
     </a>
-    <a href="https://github.com/Lifailon/intellishell">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=default" />
+    <a href="https://github.com/Lifailon/hwstat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue" />
     </a>
   <!--
   <br>
