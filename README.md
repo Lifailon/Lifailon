@@ -43,12 +43,6 @@
 
 
 <h5 align="center">
-    <a href="https://github.com/Lifailon/lazyjournal">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=lazyjournal&theme=default" />
-    </a>
-    <a href="https://github.com/Lifailon/multranslate">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=multranslate&theme=flag-india" />
-    </a>
   <br>
     <a href="https://github.com/Lifailon/TorAPI">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=flag-india" />
@@ -56,36 +50,34 @@
     <a href="https://github.com/Lifailon/LibreKinopoisk">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=LibreKinopoisk&theme=flag-india" />
     </a>
-  <!--
   <br>
-    <a href="https://github.com/Lifailon/Kinozal-Bot">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Kinozal-Bot&theme=vue" />
-    </a>
-    <a href="https://github.com/Lifailon/hwstat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=hwstat&theme=vue" />
-    </a>
-    -->
-  <br>
-    <a href="https://github.com/Lifailon/froxy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=froxy&theme=vue" />
+    <a href="https://github.com/Lifailon/multranslate">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=multranslate&theme=flag-india" />
     </a>
     <a href="https://github.com/Lifailon/intellishell">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=intellishell&theme=default" />
     </a>
-  <!--
   <br>
+    <a href="https://github.com/Lifailon/webtorrent-desktop-api">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=flag-india" />
+    </a>
+    <a href="https://github.com/Lifailon/Kinozal-Proxy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Kinozal-Proxy&theme=default" />
+    </a>
+  <br>
+    <a href="https://github.com/Lifailon/froxy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=froxy&theme=vue" />
+    </a>
     <a href="https://github.com/Lifailon/vpnc">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=vpnc&theme=vue" />
     </a>
-    <a href="https://github.com/Lifailon/Wox.Plugins">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Wox.Plugins&theme=default" />
-    </a>
+  <!--
   <br>
     <a href="https://github.com/Lifailon/sidebar">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=sidebar&theme=flag-india" />
     </a>
-    <a href="https://github.com/Lifailon/webtorrent-desktop-api">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=flag-india" />
+    <a href="https://github.com/Lifailon/Wox.Plugins">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Wox.Plugins&theme=default" />
     </a>
     -->
 </h1>
