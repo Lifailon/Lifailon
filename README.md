@@ -1,17 +1,22 @@
+<!--
 <h3 align="center">
     Projects on other platforms:
 </h3>
+-->
 
 <h5 align="center">
+<!--
     <a href="https://lifailon.github.io"><img title="MkDocs/Zola/Hugo" src="https://img.shields.io/badge/WEB_DOCS-%23008080.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
     <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <br>
+-->
     <a href="https://gitlab.com/Lifailon"><img title="GitLab" src="https://img.shields.io/badge/GitLab-fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
     <a href="https://nuget.org/profiles/Lifailon"><img title="NuGet" src="https://img.shields.io/badge/nuget-025E8C?style=for-the-badge&logo=.net&logoColor=white"></a>
-    <a href="https://hub.docker.com/u/lifailon"><img title="Docker" src="https://img.shields.io/badge/docker_hub-%23008FBA.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://npmjs.com/~lifailon"><img title="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="https://hub.docker.com/u/lifailon"><img title="Docker" src="https://img.shields.io/badge/docker_hub-%23008FBA.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://pypi.org/user/Lifailon"><img title="NPM" src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=3670A0"></a>
     <a href="https://pkg.go.dev/github.com/Lifailon/lazyjournal"><img title="NPM" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://aur.archlinux.org/packages/lazyjournal"><img title="AUR" src="https://img.shields.io/badge/AUR-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
   <br>
     <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
     <a href="https://app.swaggerhub.com/search?owner=Lifailon"><img title="Swagger" src="https://img.shields.io/badge/swagger_hub-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black"></a>
@@ -20,9 +25,11 @@
     <a href="https://habr.com/ru/users/Lifailon/publications/articles"><img title="Habr" src="https://img.shields.io/badge/Habr-619ebb.svg?style=for-the-badge&logo=habr&logoColor=white"></a>
 </h1>
 
-<!-- <h3 align="center">
+<!--
+<h3 align="center">
     Main Projects:
-</h3> -->
+</h3>
+-->
 
 <!--
 | **UI**                        | **Version**                                                                                                                                                                            | **Modules**              | **Version**                                                                                                                                                                                                             |
@@ -42,7 +49,8 @@
 -->
 
 
-<!-- <h5 align="center">
+<!--
+<h5 align="center">
   <br>
     <a href="https://github.com/Lifailon/TorAPI">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=flag-india" />
@@ -78,11 +86,14 @@
     <a href="https://github.com/Lifailon/Wox.Plugins">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Wox.Plugins&theme=default" />
     </a>
-</h1> -->
+</h1>
+-->
 
+<!--
 <h3 align="center">
     GitHub Stats:
 </h3>
+-->
 
 <!--
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lifailon&show_icons=true&theme=default)](https://github.com/Lifailon)
