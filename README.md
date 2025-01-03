@@ -20,9 +20,9 @@
     <a href="https://habr.com/ru/users/Lifailon/publications/articles"><img title="Habr" src="https://img.shields.io/badge/Habr-619ebb.svg?style=for-the-badge&logo=habr&logoColor=white"></a>
 </h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
     Main Projects:
-</h3>
+</h3> -->
 
 <!--
 | **UI**                        | **Version**                                                                                                                                                                            | **Modules**              | **Version**                                                                                                                                                                                                             |
@@ -42,7 +42,7 @@
 -->
 
 
-<h5 align="center">
+<!-- <h5 align="center">
   <br>
     <a href="https://github.com/Lifailon/TorAPI">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=TorAPI&theme=flag-india" />
@@ -64,7 +64,6 @@
     <a href="https://github.com/Lifailon/vpnc">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=vpnc&theme=vue" />
     </a>
-  <!--
   <br>
     <a href="https://github.com/Lifailon/webtorrent-desktop-api">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=webtorrent-desktop-api&theme=flag-india" />
@@ -79,8 +78,7 @@
     <a href="https://github.com/Lifailon/Wox.Plugins">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifailon&repo=Wox.Plugins&theme=default" />
     </a>
-    -->
-</h1>
+</h1> -->
 
 <h3 align="center">
     GitHub Stats:
