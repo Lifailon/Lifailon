@@ -21,9 +21,9 @@
     <a href="http://www.wox.one/u/70837"><img title="Wox" src="https://img.shields.io/badge/Wox_Plugins-36bb96?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://habr.com/ru/users/Lifailon/publications/articles"><img title="Habr" src="https://img.shields.io/badge/Habr-619ebb.svg?style=for-the-badge&logo=habr&logoColor=white"></a>
   <br>
-    <a href="https://lifailon.github.io/"><img title="GitHub Page"src="https://img.shields.io/badge/github_page-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/Lifailon/golang-cheat-sheet-ru"><img title="GoLang Cheat Sheet"src="https://img.shields.io/badge/golang_cheat_sheet_ru-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
-    <a href="https://github.com/Lifailon/node.js-cheat-sheet-ru"><img title="Node.js Cheat Sheet"src="https://img.shields.io/badge/node.js_cheat_sheet_ru-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="https://lifailon.github.io/"><img title="GitHub Page"src="https://img.shields.io/badge/powershell_notes_page-14202e?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Lifailon/golang-cheat-sheet-ru"><img title="GoLang Cheat Sheet"src="https://img.shields.io/badge/golang_cheat_sheet-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://github.com/Lifailon/node.js-cheat-sheet-ru"><img title="Node.js Cheat Sheet"src="https://img.shields.io/badge/node.js_cheat_sheet-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 </h1>
 
 <!--
