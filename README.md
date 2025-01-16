@@ -5,8 +5,8 @@
 -->
 
 <h5 align="center">
-    <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://app.swaggerhub.com/search?owner=Lifailon"><img title="Swagger" src="https://img.shields.io/badge/swagger_hub-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black"></a>
+    <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/kinozal_news-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://app.swaggerhub.com/apis-docs/Lifailon/TorAPI"><img title="Swagger" src="https://img.shields.io/badge/swagger_torapi-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black"></a>
     <a href="https://vercel.com/torapi"><img title="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <br>
     <a href="https://gitlab.com/Lifailon"><img title="GitLab" src="https://img.shields.io/badge/GitLab-fc6d26.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
@@ -20,6 +20,10 @@
     <a href="https://addons.mozilla.org/ru/firefox/user/18561955"><img title="Vercel" src="https://img.shields.io/badge/Firefox_Addons-%23F8DC75?style=for-the-badge&logo=Firefox-Browser&logoColor=ff612e"></a>
     <a href="http://www.wox.one/u/70837"><img title="Wox" src="https://img.shields.io/badge/Wox_Plugins-36bb96?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://habr.com/ru/users/Lifailon/publications/articles"><img title="Habr" src="https://img.shields.io/badge/Habr-619ebb.svg?style=for-the-badge&logo=habr&logoColor=white"></a>
+  <br>
+    <a href="https://lifailon.github.io/"><img title="GitHub Page"src="https://img.shields.io/badge/github_page-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Lifailon/golang-cheat-sheet-ru"><img title="GoLang Cheat Sheet"src="https://img.shields.io/badge/golang_cheat_sheet_ru-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://github.com/Lifailon/node.js-cheat-sheet-ru"><img title="Node.js Cheat Sheet"src="https://img.shields.io/badge/node.js_cheat_sheet_ru-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 </h1>
 
 <!--
