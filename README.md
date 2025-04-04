@@ -4,6 +4,7 @@
 </h3>
 -->
 
+<!--
 <h5 align="center">
     <a href="https://t.me/kinozal_news"><img title="Telegram" src="https://img.shields.io/badge/kinozal_news-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://app.swaggerhub.com/apis-docs/Lifailon/TorAPI"><img title="Swagger" src="https://img.shields.io/badge/swagger_torapi-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black"></a>
@@ -25,7 +26,7 @@
     <a href="https://github.com/Lifailon/golang-cheat-sheet-ru"><img title="GoLang Cheat Sheet"src="https://img.shields.io/badge/golang_cheat_sheet-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
     <a href="https://github.com/Lifailon/node.js-cheat-sheet-ru"><img title="Node.js Cheat Sheet"src="https://img.shields.io/badge/node.js_cheat_sheet-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 </h1>
-
+-->
 <!--
 <h3 align="center">
     Main Projects:
