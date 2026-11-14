@@ -103,9 +103,9 @@
 -->
 
 <h5 align="center">
-    <img align="center" src="https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img align="center" src="https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <img align="center" src="https://github.com/lifailon/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+    <img align="center" src="https://github.com/lifailon/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
     <br>
-    <img align="center" src="https://raw.githubusercontent.com/lifailon/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-    <img align="center" src="https://raw.githubusercontent.com/lifailon/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+    <img align="center" src="https://github.com/lifailon/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+    <img align="center" src="https://github.com/lifailon/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </h5>
